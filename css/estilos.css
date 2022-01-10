@@ -68,6 +68,8 @@ body {
 }
 
 .menu1 { 
+    color: white;
+    padding-top: 10px;
     text-align: center;
     margin: auto;
     width: 95%;
@@ -225,7 +227,7 @@ button:active {
 #redes {
     text-align: center;
     border-right: 1px solid rgba(255, 255, 255, 0.822);
-    border-left: 1px solid rgba(255, 255, 255, 0.795);
+    
 }
 
 #redes span {
@@ -406,6 +408,7 @@ button:active {
 
 
 .footer {
+    margin-top: 50px;
     width: 100%;
     border: none;
     background-color: rgb(58, 21, 53);
