@@ -346,10 +346,10 @@ button:active {
 /*Secciones*/
 
 #sections {
-    float: right;
-    width: 75%;
+    margin: auto;;
+    width: 80%;
     font-family: sans-serif, Arial, Helvetica;
-    margin-right: 20px;
+   
 }
 
 #sections .titulo {
