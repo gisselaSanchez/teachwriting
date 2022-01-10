@@ -135,7 +135,7 @@ nav > ul > li:hover > ul > li {
     line-height: 25px;
     font-size: 14px;
     transition: all 300ms;
-    width: 226px;
+    width: 302px;
 }
 
 nav ul li:hover > ul {
@@ -143,7 +143,7 @@ nav ul li:hover > ul {
 }
 
 nav > ul li:hover {
-    background-color: #3f71df;
+    background-color: #843fdf;
     border-radius: 12px;
 }
 
@@ -152,11 +152,11 @@ nav > ul > li a:hover {
 }
 
 nav > ul > li > ul > li a:hover {
-    color: #3f71df;
+    color: #923fdf;
 }
 
 #redes nav > ul > li > ul > li > ul > li > a:hover {
-    color: #3f71df;
+    color: #973fdf;
 }
 
 nav .sub-menu li a {
@@ -169,7 +169,7 @@ nav > ul > li > ul > li:hover > ul > li {
     line-height: 25px;
     font-size: 14px;
     transition: all 300ms;
-    width: 226px;
+    width: 302px;
 }
 
 /*Formularios*/
