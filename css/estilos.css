@@ -419,29 +419,29 @@ button:active {
     display: flex;
     width: 85%;
     margin: auto;
-    height: 530px;
+    height: 330px;
 }
 
 .container3 #cajas {
-    margin-top: 80px;
+    padding-top: 40px;
+    margin: auto;
     line-height: 170%;
-    width: 25%;
-    height: 500px;
-    display: block;
-    padding-left: 3px;
-    padding-right: 20px;
-    text-align: left;
+    height: 300px;
+    display: flex; 
+}
+
+#a1{
+    float:left;
+    padding-right: 80px;
+}
+
+#a2{
+    padding-left: 60px;
 }
 
 .container3 h3 {
     font-family: "Segoe UI", sans-serif;
     font-size: 13pt;
-}
-
-.footer .itin{
-    text-align: center;
-    margin-top: 5px;
-    margin-bottom: 30px;
 }
 
 .footer ul {
